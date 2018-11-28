@@ -15,3 +15,8 @@ footer {
 	height: 60px;	
 	text-align: center;
 }
+
+.clearfix {
+	margin-left: 25%;
+	margin-right: 25%;
+}
